@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shiv Kant Mani</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center" color="brown">Hi, I'm Shiv Kant Mani</h1>
+<h3 align="center">A passionate Software Developer/Full-stack Developer from India.</h3>
 
 - 🌱 I’m currently learning **MERN stack - MongoDB, ExpressJs, React, NodeJs**
 
-- 📫 How to reach me **shivkantmani12@gmail.com**
+- 📫 Reach out to me : **shivkantmani12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13bV75Y5fPsyJ708ExTwZ0cmVYrZE0mJY/view?usp=sharing](https://drive.google.com/file/d/13bV75Y5fPsyJ708ExTwZ0cmVYrZE0mJY/view?usp=sharing)
+- 📄 More about my experiences: [https://drive.google.com/file/d/13bV75Y5fPsyJ708ExTwZ0cmVYrZE0mJY/view?usp=sharing](https://drive.google.com/file/d/13bV75Y5fPsyJ708ExTwZ0cmVYrZE0mJY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
