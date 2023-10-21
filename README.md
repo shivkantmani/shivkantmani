@@ -5,9 +5,9 @@
 <h1 align="center" color="brown">Shiv Kant Mani</h1>
 <h3 align="center">Software Developer/Full-stack Developer</h3>
 
-- 🌱 I’m currently learning **MERN stack - MongoDB, ExpressJs, React, NodeJs**
+- 🌱 Currently learning: **MERN stack - MongoDB, ExpressJs, React, NodeJs**
 
-- 📫 Reach out to me : **shivkantmani12@gmail.com**
+- 📫 Reach out to me: **shivkantmani12@gmail.com**
 
 - 📄 More about my experiences: [https://drive.google.com/file/d/13bV75Y5fPsyJ708ExTwZ0cmVYrZE0mJY/view?usp=sharing](https://drive.google.com/file/d/13bV75Y5fPsyJ708ExTwZ0cmVYrZE0mJY/view?usp=sharing)
 
