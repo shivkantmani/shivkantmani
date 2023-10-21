@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" color="brown">Shiv Kant Mani</h1>
-**<h3 align="center">A passionate Software Developer/Full-stack Developer from India.</h3>**
+<h3 align="center">Software Developer/Full-stack Developer</h3>
 
 - 🌱 I’m currently learning **MERN stack - MongoDB, ExpressJs, React, NodeJs**
 
