@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=red&text=Hello!&height=100&section=header"/>
 </p>
+
 <h1 align="center">Shiv Kant Mani</h1>
+
 <h3 align="center">Software Developer/Full-stack Developer</h3>
+
 - 🌱 Currently learning: **MERN stack - MongoDB, ExpressJs, React, NodeJs**
 
 - 📫 Reach out to me: **shivkantmani12@gmail.com**
